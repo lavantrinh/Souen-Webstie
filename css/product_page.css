@@ -1,0 +1,64 @@
+#machine_name{
+    
+    font-weight: bold;
+    text-align: center;
+}
+.img-responsive{
+    position: relative;
+    }
+#koutei_title{
+    
+    position: absolute;
+    color: #ffffff;
+    font-size: 2.5vw;
+    margin-top: -30%;
+   margin-left: 10%;
+   margin-right: 10%;
+   
+    font-family: HGPKyokashotai;
+}
+#koutei_title2{
+    
+    position: absolute;
+    color: #ffffff;
+    font-size: 7vw;
+    margin-top: -50rem;
+   margin-left: 10%;
+   margin-right: 10%;
+   text-align: center;
+    font-family: HGPKyokashotai;
+}
+.container-fluid{
+    margin-top: 50px;
+}
+.machine>p{
+    
+    text-align: center;
+}
+
+
+.container-fluid{
+    
+}
+
+
+.img-rounded{
+display: block;
+margin-top: 10rem;
+
+margin-left: auto;
+margin-right: auto;
+
+}
+.machine{
+  margin-top: 3rem;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 3rem;
+  width: 90%;
+    background-color: white;
+    box-shadow: 0 8px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.table-responsive{
+  margin-top: 3rem;
+}

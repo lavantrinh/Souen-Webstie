@@ -1,0 +1,29 @@
+#bending_name{
+	color: #E3000E;
+	text-align: center;
+	font-family: arial;
+}
+.table > thead > tr > th, .table > tbody > tr > th, .table > tfoot > tr > th, .table > thead > tr > td, .table > tbody > tr > td, .table > tfoot > tr > td{
+	border-left: 1px solid #ddd;
+	border-right: 1px solid #ddd;
+	border-bottom: 1px solid #ddd;
+}
+#content{
+	margin-top: 90px;
+	
+}
+.featurette-heading{
+font-family: MS Gothic;
+font-size: 32px;
+color: #2C82C9;
+
+}
+.lead{
+	font-family: MS Gothic;
+	font-size: 20px;
+	color: #25373D;
+	line-height: 40px;
+}
+#thumbnail{
+	min-height: 600px;
+}

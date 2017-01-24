@@ -1,0 +1,15 @@
+#cover{
+	background-image: url(../Images/cover.jpg);
+	background-size:cover;
+    min-height:400px;
+}
+.container-fluid{
+	
+.thumbnail{
+	margin-top: 30px;
+	width: 90%;
+	min-height: 65rem;
+}
+h3{
+	color: #EE543A;
+}

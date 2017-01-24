@@ -1,0 +1,29 @@
+.greeting{
+	line-height: 36px;
+}
+#sign{
+
+float: right;
+}	
+h4{
+	font-weight: bold;
+	color: #2C82C9;
+	font-size: 20px;
+}
+#sign_name{
+	color: #000000;
+	margin-right: 10rem;
+	font-weight: bold;
+	text-align: right;
+}
+h1{
+	font-family: DFKai-SB;
+	color: #000000;
+	font-weight: 200%;
+	margin-right: 7rem;
+	font-weight: bold;
+	text-align: right;
+}
+p{
+	font-size: 18px;
+}

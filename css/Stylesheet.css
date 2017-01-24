@@ -1,0 +1,108 @@
+body{
+	font-family: 'Hiragino Kaku Gothic Pro', 'Meiryo', sans-serif;
+}
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 230px;
+  min-height: 1000px;
+  padding-top: 70px;
+
+}
+
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background-color: #25373D;
+  min-height: 200px;
+}
+.navbar-default{
+  height: 70px;
+}
+.navbar-default .navbar-toggle{
+  height: 50px;
+  width: 50px;
+}
+.navbar-toggle .icon-bar{
+  width: 28px;
+}
+.navbar-default .navbar-nav > li > a{
+  color: #2C82C9;
+  font-weight: bold;
+  margin-top: 25px;
+}
+.navbar-brand{
+  padding: 5px 5px;
+}
+.container .text-muted{
+  margin: 20px 0;
+}
+.footer>.container>ul>li{
+    display: inline-block;
+    list-style: none;
+    text-align: center;
+    margin-top: 20px;
+    width: 120px;
+  }
+.footer>.container>ul{
+    text-align: center;
+  }
+.footer>.container>ul>li>a{
+    text-decoration: none;
+    color: #FFFFFF;
+  }
+  #company_name{
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+  #logo{
+    margin-top: 30px;
+    height: 10%;
+  }
+  #address{
+    font-size: 18px;
+    color:#FFFFFF;
+    line-height: 120%;
+  }
+  @media (max-width: 468px){
+
+    .carousel-caption>h1{
+      font-size: 13px;
+
+    }
+    #logo_icon{
+      height: 50px;
+    }
+    body{
+    margin-bottom: 470px;
+  }
+  .collapsing, .in {background-color: #f7f7f7;}
+.collapsing ul li a, .in ul li a {color: #555!important;}
+.collapsing ul li a:hover, .in ul li a:hover {color: #f1f1f1!important;}
+  }
+  @media (max-width: 769px){
+
+    .carousel-caption>h1{
+      font-size: 13px;
+
+    }
+    .navbar-nav > li{
+      font-size: 11px;
+    }
+    #logo_icon{
+      height: 35px;
+      margin-top: 15px;
+    }
+    body{
+    margin-bottom: 470px;
+  }
+  .collapsing, .in {background-color: #f7f7f7;}
+.collapsing ul li a, .in ul li a {color: #555!important;}
+.collapsing ul li a:hover, .in ul li a:hover {color: #f1f1f1!important;}
+  }
+
+

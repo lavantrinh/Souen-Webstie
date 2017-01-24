@@ -1,0 +1,25 @@
+#content{
+	margin-top: 90px;
+	margin-bottom: 150px;
+}
+h1{
+	text-align: center;
+}
+.form-control{
+margin-top: 3rem;
+}
+.control-label{
+margin-top: 3rem;	
+}
+.col-md-9{
+	border-left:  1px solid black;
+}
+.btn-success{
+	width: 150px;
+	margin-left: 45%;
+	margin-top: 10rem;
+}
+.btn-info{
+	width: 150px;
+	margin-top: 10rem;
+}
